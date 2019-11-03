@@ -1,0 +1,32 @@
+[
+  {"id": 1, "title": "The Lord of the Rings", "author": "J. R. R. Tolkien", "first_published": "1954", "price": 22,
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/First_Single_Volume_Edition_of_The_Lord_of_the_Rings.gif"
+  },
+  {"id": 2, "title": "The Alchemist", "author": "Paulo Coelho", "first_published": 1988, "price": 24,
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/TheAlchemist.jpg"
+  },
+  {"id": 3, "title": "The Little Prince", "author": "Antoine de Saint-Exupéry", "first_published": 1943, "price": 26,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Er-1-33.jpg"
+  },
+  {"id": 4, "title": "Grimms' Fairy Tales", "author": "Jacob and Wilhelm Grimm", "first_published": 1812, "price": 18,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Grimm%27s_Kinder-_und_Hausm%C3%A4rchen%2C_Erster_Theil_%281812%29.cover.jpg"
+  },
+  {"id": 5, "title": "Harry Potter and the Philosopher's Stone", "author": "J. K. Rowling", "first_published": 1997, "price": 33,
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg"
+  },
+  {"id": 6, "title": "The Hobbit", "author": "J. R. R. Tolkien", "first_published": 1937, "price": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/TheHobbit_FirstEdition.jpg"
+  },
+  {"id": 7, "title": "And Then There Were None", "author": "Agatha Christie", "first_published": 1939, "price": 44,
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/And_Then_There_Were_None_First_Edition_Cover_1939.jpg"
+  },
+  {"id": 8, "title": "Dream of the Red Chamber", "author": "Cao Xueqin", "first_published": 1791, "price": 29,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Hongloumeng2.jpg"
+  },
+  {"id": 9, "title": "The Lion, the Witch and the Wardrobe", "author": "C. S. Lewis", "first_published": 1950, "price": 33,
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/86/TheLionWitchWardrobe%281stEd%29.jpg"
+  },
+  {"id": 10, "title": "She: A History of Adventure", "author": "H. Rider Haggard", "first_published":1887, "price": 33,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/She_title_page.jpg"
+  }
+]
